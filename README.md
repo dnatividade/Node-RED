@@ -1,4 +1,4 @@
-# Node-RED
+# Node-RED   ![node-red](https://user-images.githubusercontent.com/43869367/64254808-83cc6d00-cef6-11e9-83b8-cfebb328961c.png)
 Node-RED instalation, configuration and projects examples
 
 https://github.com/node-red
