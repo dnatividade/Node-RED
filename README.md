@@ -1,6 +1,11 @@
 # Node-RED
 Node-RED instalation, configuration and projects examples
 
+https://github.com/node-red
+
+http://nodered.org
+
+
 ## Instalation and configuration guide
 
 ### Install Node-RED ###
